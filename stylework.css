@@ -1,0 +1,33 @@
+bb/* Add your styling here */ body {
+
+    font-family: Arial, sans-serif; margin: 0; padding: 0; }
+
+    header {
+    
+    background-color: #333; color: #fff; text-align: center; padding: 1rem; }
+    
+    main {
+    
+    display: flex;
+    
+    flex-wrap: wrap; justify-content: space-around; padding: 2rem;
+    
+    }
+    
+    .product {
+    
+    border: 1px solid #ccc; padding: 1rem; text-align: center; margin: 1rem; }
+    
+    .product img { max-width: 100%; height: auto; }
+    
+    .price { font-weight: bold; color: #333; }
+    
+
+    .add-to-cart { background-color: #007bff; color: #fff; padding: 0.5rem 1rem; cursor: pointer;
+
+    border: none;
+
+}
+#image{
+    max-width: 60%;
+}
